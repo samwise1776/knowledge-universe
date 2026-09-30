@@ -1,0 +1,8 @@
+{
+  "name": "knowledge.db",
+  "version": "1.0.1",
+  "items": 600000,
+  "sections_per_item": 100,
+  "release": "v1.0.1-fixed",
+  "download": "https://github.com/samwise1776/knowledge-universe/releases/download/v1.0.1-fixed/knowledge.db"
+}
